@@ -1,0 +1,1 @@
+https://coderun.yandex.ru/problem/largest-product-two-numbers
